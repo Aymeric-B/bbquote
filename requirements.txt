@@ -19,3 +19,4 @@ joblib
 memoized-property
 termcolor
 streamlit
+requests
