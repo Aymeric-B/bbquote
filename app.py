@@ -1,7 +1,7 @@
 import streamlit as st
 from bbquote.lib import get_quote
 
-"# I am the main heading"
+"# Breaking Bad quotes"
 "## I am the secondary heading"
 "### I am a subtitle"
 
