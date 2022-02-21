@@ -7,5 +7,4 @@ email = \'${HEROKU_EMAIL_ADDRESS}'
 echo "[server]
 headless = true
 enableCORS = false
-port = $PORT
 " > ~/.streamlit/config.toml
