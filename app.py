@@ -7,6 +7,6 @@ from bbquote.lib import get_quote
 
 123456
 
-"I am a string"
+"Refresh your page to get a new quote ! "
 
 st.write(get_quote())
